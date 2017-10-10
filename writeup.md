@@ -20,18 +20,18 @@
 
 [//]: # (Image References)
 
-[image1]: ./misc/TODO1N2.jpg
-[image2]: ./misc/TODO3obs.jpg
-[image3]: ./misc/TODO3rocks.jpg
-[image4]: ./misc/TODO3.jpg
-[image5]: ./misc/TODO4.jpg
-[image6]: ./misc/TODO5.jpg
-[image7]: ./misc/TODO6.jpg
-[image8]: ./misc/PERS1.jpg
-[image9]: ./misc/PERS2.jpg
-[image10]: ./misc/PERS3.jpg
-[image11]: ./misc/PERS4.jpg
-[image11]: ./misc/DESC1.jpg
+[image1]: ./misc/TODO1N2.png
+[image2]: ./misc/TODO3obs.png
+[image3]: ./misc/TODO3rocks.png
+[image4]: ./misc/TODO3.png
+[image5]: ./misc/TODO4.png
+[image6]: ./misc/TODO5.png
+[image7]: ./misc/TODO6.png
+[image8]: ./misc/PERS1.png
+[image9]: ./misc/PERS2.png
+[image10]: ./misc/PERS3.png
+[image11]: ./misc/PERS4.png
+[image12]: ./misc/DESC1.png
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/916/view) Points
 
